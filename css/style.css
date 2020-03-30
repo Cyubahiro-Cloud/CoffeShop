@@ -85,7 +85,7 @@ ul {
 	margin-top: 100px;
 	width: 100%;
 	height: 500px;
-	background: url('../imgs/showcase1.png') no-repeat center center/cover;
+	background: url('imgs/showcase1.png') no-repeat center center/cover;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -160,7 +160,7 @@ ul {
 .gear {
 	width: 100%;
 	height: 350px;
-	background: url('../imgs/gearShowCase.jpg') no-repeat center center/cover;
+	background: url('imgs/gearShowCase.jpg') no-repeat center center/cover;
 	padding: 50px;
 	display: flex;
 	flex-direction: column;
